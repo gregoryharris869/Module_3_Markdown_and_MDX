@@ -3,7 +3,7 @@ title: Hello, World
 layout: "../../layouts/BlogLayout.astro"
 ---
 
-# Hi there!
+## Hi there
 
 This Markdown file creates a page at `your-domain.com/page-1/`
 
